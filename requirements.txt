@@ -1,0 +1,5 @@
+gym==0.26.2
+pyglet==1.5.27
+sb3==1.7.0
+matplotlib
+tensorboard

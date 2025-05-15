@@ -33,7 +33,7 @@ Pekiştirmeli öğrenme, bir ajan ile ortam arasındaki etkileşime dayalı bir 
 
 Aşağıda algoritmaların eğitim sonrası ortalama ödüllerine göre karşılaştırılması gösterilmektedir:
 
-![Karşılaştırma Grafiği](comparison_results.png)
+![Karşılaştırma Grafiği](Comparison_results.png)
 
 | Algoritma | Ortalama Ödül | Standart Sapma |
 |-----------|----------------|----------------|
